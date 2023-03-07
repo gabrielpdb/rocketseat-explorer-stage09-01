@@ -8,7 +8,9 @@ export function Details() {
       <h1>Hello</h1>
       <span>Yo</span>
 
-      <Button />
+      <Button title="Login" loading />
+      <Button title="Cadastrar" />
+      <Button title="Voltar" />
     </Container>
   )
 }
