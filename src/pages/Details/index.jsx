@@ -1,3 +1,5 @@
+import { Container } from './styles'
+
 export function Details() {
-  return <div>h</div>
+  return <Container></Container>
 }
